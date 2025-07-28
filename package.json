@@ -1,5 +1,5 @@
 {
-  {
+  
     “homepage” : “https://Raja-10706.github.io/zoro/”
 "scripts": {
   "lint": "eslint .",
