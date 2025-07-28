@@ -8,7 +8,9 @@ function App() {
 
   return (
     <>
-      <h1>"WELCOME"</h1>
+      <h1>"RAJA BATTULA (2400032981)"</h1>
+      <h2>2nd Year B.Tech , C.S.E Department</h2>
+      <h3>Thanks for visiting 😁👍</h3>
     </>
   )
 }
